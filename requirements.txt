@@ -3,3 +3,5 @@ flask-sqlalchemy
 pymysql
 marshmallow_sqlalchemy
 marshmallow
+pyjwt
+datetime
